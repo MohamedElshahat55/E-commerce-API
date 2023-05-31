@@ -1,0 +1,9 @@
+
+# Dependency directories
+server/node_modules
+
+
+
+
+# dotenv environment variable files
+server/config.env
